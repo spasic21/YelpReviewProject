@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "glassy-droplet-305421",
+  "private_key_id": "89d3384cbd62ee4a5d02f32dc79784ba2b98612d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCyzb5RAh817C8a\nm8MWFAMKJaQR3HYXLtvwMzQqRytWEe+2U6lPnOKmEKd1VhYGNbTlMvmCtNrPsmCQ\nVxDcW4ldU2JGtKMaBgEz+8AcvOvzlQS1m6st8Px9uQFijn+vhr+3GLJDWqedEq0B\nNWxxBJCjoq0aDFFi8Ybdmrrz2OFgU23oX74lb31GQ1nzmSnwvMlKOaeUqcv2DAfA\nGwMfTnxb5rdnVJIEngqwXJauBJG8jUcicI0Hu5ah/eHqit0Tl48FjrOy2k9yQ3D0\nmSnlLMzTCqfryPKw0G+k2y03viUF0CppVKX8fwKXQxjXFhNoLKQRdpTcjLhFlZDW\nY6RwvCeBAgMBAAECggEAFrrjeQJbS9xOv6Px+K5KFaHj2dZsF7XgBUjJFp/OAUbN\n8aBwi1ufD2vaEedD7P2qVaG1iNlrYJBlSKwcy1qCm5/URDdF7bK6N+zGxxB4MVKu\nEtUrfW9fda8NX0VMs5heak0EKl5NpQDhB+CN/M8PARJWzZMnzHt2QNkg74tQWVGD\nDnUminJveOoZOpfIpY5SvkOePyCrZD+5wt2bosyQAtQrb10p8ckttUIkAw6S0IzU\n2UsQGKoFLdU+zLVxkEcyfJC8GUOzt57jzDGNwq2VwXyTF7Buxaq0JcJF0A+Dy4kS\nGmrnK9U2BNvMM3kEGbaQdWTRvLSsQU2CX0nSQsevvQKBgQDvkjyJ50mTvR7FvdIy\n/JDHnEGh/C7eLfgNryVS3we+YmxSKujc/g5HbNdpKlvHTV9SNr6+3L5lpN/nnCr/\nxp9iAc7Y0rxYpWxMijFBqw7+SbmrBbHpgS88MlsWMiU6sFA2gOBcdIR31AR016Bc\nUPxNAJLXsQXJgf3MPoyRx7MifQKBgQC/ELWq6Pq4I00uYV0xT4LHr6HkT1vLHZT2\nsOqsLMIWvhF5sSME3YlNbM65T74HDGyHcRn7tvkcAZkVijtxm9Ly5JHEHyNRpPHk\nqSv3bhrQF/eXSCwGKfv1/EFHxM49cXFt/0T0yN8ZXiIZtwsabw6oQ+GfVSp1e40l\naiJqaGLEVQKBgHNcUbZ+Hxn7KYRCwaM3p2fXQGuGCfOG4zmDq09agloU/uAaNYOk\n+q8+JARKF2PDSDFIl1VE6pH7cK4Qr0v3EuyYvkf+Qh/VmG7K5Kkge9nLGpLV7TPp\ntxsfjGkFwJOgLx/vsxoSKW+iMnspEdkiTjuuGQewAH9mDxZ40CuqpAHpAoGAZd3F\nzbprOdNwaeL1Kb4njsk/+hapbRB3hFLsuyEd1bw+WvArKIPomUQCr2Apg16HWmrd\nnIuAIwNjF83cRYT7og5k/PhQ/01+vhfH3iJw3zN4CMss1Zh6wjpcn6P5BV8/R5MK\ns6uI7uB2M9mYbN57JRET8LwaaAqYRTNh5/OBfQUCgYBdvWqgz00c8o6Jh4weTO2c\nEhMgRrBaYSjShZD2iaoS2Xbved8cDViFEbIkXvyq44ZvG6rfk2Nla9Uqw6eRftKZ\nwLScKnh6YEQZTLXg0FKNnz2swkvfz0G+0RRi5hW3CXgozGSxC/LeFEKsygB6XDcZ\nTD2pTulKQ5twbqi/UNfCrg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "yelpproject@glassy-droplet-305421.iam.gserviceaccount.com",
+  "client_id": "105562889565239922306",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/yelpproject%40glassy-droplet-305421.iam.gserviceaccount.com"
+}
