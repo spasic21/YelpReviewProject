@@ -25,7 +25,7 @@ public class YelpController {
 	 @Autowired
 	 YelpService yelpService;
 	 
-	 String apiKey = "5UQIaWue4to52caV_n1u4IkNo1YiFEGIhGkB6g32TGgDi7RN-wEBn_KcirMp8EX7VX_3xnYwSNJcGg5lT2Tx9h5AM1FIeb5jSjyl2_1FXzAPf8XuehGgnV-NNyUwYHYx";
+	 String apiKey = "INSERT KEY HERE";
 	 
 	 @GetMapping("/{id}/reviews")
 	 public YelpInfo getBusinesses(@PathVariable String id) throws ParseException {
